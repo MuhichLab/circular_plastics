@@ -1,3 +1,5 @@
+These modules were created for the ESCORT program at Arizona State University to teach about circular plastics design
+
 These files provide a series of jupyter notebooks to cover the basics of hands on quantum chemistry using games
 they assume that you have already installed gamess and can link to its location
 
