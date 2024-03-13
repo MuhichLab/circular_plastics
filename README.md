@@ -5,5 +5,9 @@ they assume that you have already installed gamess and can link to its location
 
 run the intsall notebook first to insure you have the proper applications loaded. YOu will likely need to exit the jupyter notebook then restart before running the other modules. 
 
-execute the following command to download this folder
+execute the following command to download this folder:
+
+
+
+
 git clone https://github.com/MuhichLab/circular_plastics
