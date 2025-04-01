@@ -11,3 +11,9 @@ execute the following command to download this folder:
 
 
 git clone https://github.com/MuhichLab/circular_plastics
+
+
+From a jupyter notebook try:
+!git clone https://github.com/MuhichLab/circular_plastics.git
+
+Use 2025 implimentation
